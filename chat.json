@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page as the user scrolls, or should it remain static?\", \"option1\": \"Fixed\", \"option2\": \"Static\"}, {\"question 2\": \"Do you prefer a horizontal navbar at the top of the page, or a vertical navbar at one side?\", \"option1\": \"Horizontal at the top\", \"option2\": \"Vertical at one side\"}], \"input_token_count\": 265, \"output_token_count\": 100, \"time_taken\": \"0:00:02.997062\"}",
+        "message_id": "guest01082024042410",
+        "timestamp": "01082024042414",
+        "component_file_name": "simple_footer_component_1722486168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on adding a navbar with home, about, and contact navlinks.",
         "message_id": "guest01082024042410",
