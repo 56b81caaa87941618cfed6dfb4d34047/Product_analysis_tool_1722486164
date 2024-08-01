@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky navbar for better user navigation\", \"checked\": true}, {\"feature\": \"Dropdown menus under navlinks for additional options\", \"checked\": false}, {\"feature\": \"A search bar in the navbar to quickly find product information\", \"checked\": true}, {\"feature\": \"Dynamic highlighting for the currently active page/section\", \"checked\": true}, {\"feature\": \"Responsive design for the navbar to adapt to different device sizes\", \"checked\": true}, {\"feature\": \"Integration of social media icons in the navbar for easy access to social platforms\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 133, \"time_taken\": \"0:00:06.458055\"}",
+        "message_id": "guest01082024042410",
+        "timestamp": "01082024042418",
+        "component_file_name": "simple_footer_component_1722486168",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page as the user scrolls, or should it remain static?\", \"option1\": \"Fixed\", \"option2\": \"Static\"}, {\"question 2\": \"Do you prefer a horizontal navbar at the top of the page, or a vertical navbar at one side?\", \"option1\": \"Horizontal at the top\", \"option2\": \"Vertical at one side\"}], \"input_token_count\": 265, \"output_token_count\": 100, \"time_taken\": \"0:00:02.997062\"}",
         "message_id": "guest01082024042410",
