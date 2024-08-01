@@ -17,6 +17,12 @@ Vue.component("simple_footer_component_1722486168", {
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Gain valuable insights into new product launches with our cutting-edge data analysis platform. Stay ahead of the competition with ProductScope.
                     </div>
+                    </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Hello World
+                    </button>
                 </div>
             </div>
         </footer> 
